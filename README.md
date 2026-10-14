@@ -4,7 +4,7 @@
 int main() { <br>
     float preco_unitario, imposto, transporte, seguro, <br>
     preco_final; <br>
-    float total_impostos = 0; <br>
+    float total_impostos = 0; <br> 
     int pais_origem; <br>
     char meio_transporte, carga_perigosa;
 
